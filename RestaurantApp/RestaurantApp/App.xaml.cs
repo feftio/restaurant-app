@@ -9,8 +9,8 @@ namespace RestaurantApp
         public App()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
+            Device.SetFlags(new[] { "Shapes_Experimental", "Brush_Experimental" });
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()
