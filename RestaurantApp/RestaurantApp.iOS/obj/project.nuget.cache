@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xGPpR4fSGFkWA5Gw3vIII4u9t69SVGzE9l+HqhNDkz5/8jubf3eTloCQmNWS7e3OPXmqiUoBOO+U/UvJbjmcDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\Projects\\restaurant-app\\RestaurantApp\\RestaurantApp.iOS\\RestaurantApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
